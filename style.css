@@ -1,0 +1,36 @@
+body{
+    text-align: center;
+    @media screen {width: auto;
+        height: auto;
+        background-image: url(pexels-photo-7429322.jpg);
+    }
+}
+.aa{
+    border-radius: unset;
+    background-color: darkgreen;
+    border-style: outset;
+    border-color: yellow;
+}
+
+.bb{
+    background-color: brown;
+    border-style: double;
+    border-color: blue;
+}
+.b:hover{background-color: gold;
+    padding-inline: 10px;
+}
+.b2:hover{background-color: darkblue;
+    padding-inline: 10px;
+}
+#inpu:hover{
+    background-color: deeppink;
+    padding-inline: 10px;
+}
+
+#inp:hover{
+    background-color: black;
+    padding-inline: 8px;
+
+}
+
